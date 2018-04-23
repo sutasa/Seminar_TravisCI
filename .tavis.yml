@@ -1,9 +1,9 @@
-sodo: repuired
+sudo: required
 
 language: php
 php:
   - 7.1.5
-  -7.2
+  - 7.2
 
   baranches:
     only:
