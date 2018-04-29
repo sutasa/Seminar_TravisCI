@@ -5,9 +5,9 @@ php:
   - 7.1.5
   - 7.2
 
-  baranches:
-    only:
-        master
+branches:
+  only:
+     master
 
 before_script:
   - composer self-update
